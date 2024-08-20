@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**bayjanov/bayjanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name], a passionate **[Your Profession/Title]** with a focus on **[Your Key Skills/Technologies]**. Currently based in [Your Location], I specialize in [Briefly describe your main areas of expertise].
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+- **Languages:** [List your programming languages]
+- **Frameworks:** [List your frameworks]
+- **Tools:** [List your tools, e.g., Git, Docker, etc.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=stars&theme=radical)
+
+### 📫 Get in Touch
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- Portfolio: [Your Website](https://yourwebsite.com)
+- Email: [Your Email](mailto:youremail@example.com)
+
+### 🌱 Currently Learning
+[Briefly describe what you're learning right now, e.g., a new programming language, a technology, etc.]
+
+### 🚀 Projects
+- [Project Name](https://github.com/yourusername/projectname): Brief description of the project.
+- [Project Name](https://github.com/yourusername/projectname): Brief description of the project.
+
+### ✨ Fun Fact
+[Share a fun fact about yourself, e.g., hobbies, interests outside of coding, etc.]
+
+---
+
+_Powered by a passion for code and a love for learning._
