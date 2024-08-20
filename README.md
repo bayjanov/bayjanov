@@ -21,6 +21,11 @@
 
 
 
-## <img src="" width="32" height="32" style="fill: #FF0000;"> YouTube Videos
+## <img src="./youtube-brands-solid.svg" width="28" height="28" style="fill: #FF0000;"> YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Day in the Life of a Computer Science student (Budapest/Europe)](https://ytcards.demolab.com/?id=tg_l-gzAgp0&title=Day+in+the+Life+of+a+Computer+Science+student+(Budapest%2FEurope)&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Day in the Life of a Computer Science student (Budapest/Europe)")](https://youtu.be/tg_l-gzAgp0?si=RzWICMpUm5O1GiRa)
+
+<!-- END YOUTUBE-CARDS -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
