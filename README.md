@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi, I'm Bakhtiyor 👋
 
-I'm [Your Name], a passionate **[Your Profession/Title]** with a focus on **[Your Key Skills/Technologies]**. Currently based in [Your Location], I specialize in [Briefly describe your main areas of expertise].
+👨🏻‍💻 Full-Stack developer sharing about my journey and learnings in tech, focusing on technologies like Angular/ReactJS, Node.JS and Spring Boot.
+👩🏻‍🎓 Studied Computer Science at Eötvös Loránd University, Hungary
+📍 Currently based in Budapest, Hungary.
 
 ### 🔧 Technologies & Tools
 - **Languages:** [List your programming languages]
@@ -8,7 +10,7 @@ I'm [Your Name], a passionate **[Your Profession/Title]** with a focus on **[You
 - **Tools:** [List your tools, e.g., Git, Docker, etc.]
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=stars&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bayjanov&show_icons=true&hide=stars&theme=radical)
 
 ### 📫 Get in Touch
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
